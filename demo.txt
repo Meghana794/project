@@ -1,0 +1,10 @@
+devops tools
+1.git and github
+2.linux 
+3.maven 
+4.jackins 
+5.docker 
+6.kunernetes 
+7.AWS 
+8.terrsform 
+9.ansible 
