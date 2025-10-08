@@ -1,2 +1,5 @@
 hello all 
 welcome to git session
+
+devops tools
+git and github
